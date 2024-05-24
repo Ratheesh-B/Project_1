@@ -7,8 +7,7 @@ import googleapiclient.errors
 import mysql.connector as mc
 import pandas as pd
 import re 
-import numpy as np
-
+ 
 api_service_name = 'youtube'
 api_version = 'v3'
 dev_key='AIzaSyAe9YHQ01aCDstjH5sYOpK9Qe_40P4e8PI'
