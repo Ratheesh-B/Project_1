@@ -6,7 +6,8 @@ import googleapiclient.discovery
 import googleapiclient.errors
 import mysql.connector as mc
 import pandas as pd
-import re
+import re 
+import numpy as np
 
 api_service_name = 'youtube'
 api_version = 'v3'
